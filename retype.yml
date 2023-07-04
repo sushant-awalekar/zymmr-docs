@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Zymmr Docs
+  label: v1.0
+links:
+  - text: Zymmr.com
+    link: https://www.zymmr.com/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
