@@ -4,6 +4,8 @@ icon: home
 order: 500
 ---
 
+[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 [!embed](https://www.youtube.com/watch?v=MMaQPTrzRZo&t=32s)
 
 # Welcome to Zymmr
